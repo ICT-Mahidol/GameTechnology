@@ -1,0 +1,12 @@
+Pan Data is responsbile for this exercise:
+Requirement:
+
+Create a node js server that receives a request from the API-url
+
+Return a reponse message "Hello World" + username
+
+Node's server also  create a log file named "log.txt" that note:
+ - connection time, connection's user name  
+one line per one connection
+
+Assigned on July 3, 2019

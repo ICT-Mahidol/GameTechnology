@@ -1,0 +1,9 @@
+Assigned to Tick,
+
+Please provide a quick exercise on Maria DB,
+
+It can be a document with sample code to quickly setup a database or data store.
+
+Provide an example to import/export data with the sample DB in this folder
+
+Assigned on July 3, 2019
