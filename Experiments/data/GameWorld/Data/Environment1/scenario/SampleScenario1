@@ -1,0 +1,34 @@
+{
+  "title":"example scenario1",
+  "targetEnvironment":"Environment1",
+  "entityList":[
+    {
+      "guid":"global-unique-id-1",
+      "entityTypeId":"wolf",
+      "name":"hungry-wolf1",
+      "tags":["hungry"],
+		"positiion":[0, 0, 0]
+    },
+    {
+      "guid":"global-unique-id-2",
+      "entityTypeId":"tastyLeaf",
+      "name":"lovely-sheep1",
+      "tags":["hungry"],
+ 		"position":[1, 1, 0]
+    },
+    {
+      "guid":"global-unique-id-3",
+      "entityTypeId":"tastyLeaf",
+      "name":"tasty-leaf",
+      "tags":["resource", "replenish"],
+ 		"position":[1, 0, 0]
+    },
+    {
+      "guid":"global-unique-id-4",
+      "entityTypeId":"sheep",
+      "name":"tasty-leaf",
+      "tags":["resource", "replenish"],
+ 		"position":[1, 1, 0]
+    }
+  ]
+}

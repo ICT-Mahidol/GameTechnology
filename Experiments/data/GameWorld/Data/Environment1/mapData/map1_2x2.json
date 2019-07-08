@@ -1,0 +1,71 @@
+{
+ "id":"map1_2x2",
+ "title":"Basic grassland",
+ "type":"grid",
+ "properties": {
+   "gridType":"square", 
+   "grisSize":4,
+   "useChunk":true, 
+   "mapRandomSeed":100,
+   "unitToMeter":1,
+   "dimensions":"2D"
+ },
+
+ "keywordMap":{
+   "abundant":100,
+   "high":75,
+   "medium":50,
+   "low":25,
+   "none":0
+ }
+
+ "chunkParams": {
+  "chunkRowSize":2,
+  "chunkColSize":2
+ },
+
+ "gridCells":[
+   {
+     "position":[0,0,0],
+     "properties":{"cellTerrain":"grassland"},
+     "parameters":{
+       "elevation":1,
+       "vegetation":"abundant",
+       "floral":"medium",
+       "fauna":"abundant",
+       "waterElevation":0
+     }
+   },{
+     "position":[0,1,0],
+     "properties":{"cellTerrain":"grassland"},
+     "parameters":{
+       "elevation":1,
+       "vegetation":"abundant",
+       "floral":"medium",
+       "fauna":"abundant",
+       "waterElevation":0
+     }
+   },{
+     "position":[1,0,0],
+     "properties":{"cellTerrain":"grassland"},
+     "parameters":{
+       "elevation":1,
+       "vegetation":"abundant",
+       "floral":"medium",
+       "fauna":"abundant",
+       "waterElevation":0
+     }
+   },{
+     "position":[1,1,0],
+     "properties":{"cellTerrain":"rockyland"},
+     "parameters":{
+       "elevation":3,
+       "vegetation":"medium",
+       "floral":"medium",
+       "fauna":"low",
+       "waterElevation":0
+     }
+   }
+ ]
+
+}

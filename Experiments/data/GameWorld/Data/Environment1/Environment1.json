@@ -1,0 +1,10 @@
+{
+ "id":"environment1",
+ "type":"grid"
+ "mapData":"mapData/map1_2x2"
+ "entityDefinition":["entity/predator_prey1"],
+ "properties":{
+   "globalRandomSeed":100
+ }
+
+}

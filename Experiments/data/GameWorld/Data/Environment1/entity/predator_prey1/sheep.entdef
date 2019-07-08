@@ -1,0 +1,10 @@
+{
+ "uid":"sheep",
+ "typeName":"A sheep",
+ "tags":["prey", "animal", "herbivore"],
+ "description":"A pack herbivore. it loves tasty leaf",
+ "damageModel":{},
+ "stats":{},
+ "inventory":{},
+ "properties":{}
+}

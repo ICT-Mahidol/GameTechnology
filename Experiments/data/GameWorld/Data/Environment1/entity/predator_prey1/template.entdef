@@ -1,0 +1,10 @@
+{
+ "uid":"wolf",
+ "typeName":"A wolf",
+ "tags":[],
+ "description":"A pack predator. it hunts sheeps as prey",
+ "damageModel":{},
+ "stats":{},
+ "inventory":{},
+ "properties":{}
+}

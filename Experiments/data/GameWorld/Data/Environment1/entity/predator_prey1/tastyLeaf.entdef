@@ -1,0 +1,10 @@
+{
+ "uid":"tastyleaf",
+ "typeName":"A tasty leaf",
+ "tags":["vegetation", "food"],
+ "description":"A common vegetation, sheep loves it",
+ "damageModel":{},
+ "stats":{},
+ "inventory":{},
+ "properties":{}
+}
