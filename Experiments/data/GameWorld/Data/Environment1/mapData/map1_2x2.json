@@ -4,7 +4,7 @@
  "type":"grid",
  "properties": {
    "gridType":"square", 
-   "grisSize":4,
+   "gridSize":4,
    "useChunk":true, 
    "mapRandomSeed":100,
    "unitToMeter":1,
@@ -17,7 +17,7 @@
    "medium":50,
    "low":25,
    "none":0
- }
+ },
 
  "chunkParams": {
   "chunkRowSize":2,
