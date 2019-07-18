@@ -5,6 +5,8 @@
  "properties": {
    "gridType":"square", 
    "gridSize":4,
+   "gridRow":2,
+   "gridCol":2,
    "useChunk":true, 
    "mapRandomSeed":100,
    "unitToMeter":1,
