@@ -1,0 +1,25 @@
+{
+  "name": "gamemapapi",
+  "version": "1.0.0",
+  "description": "Get information from game environment map with this API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon gameserver.js"
+  },
+  "keywords": [
+    "mapAPI",
+    "gameEnvironnent",
+    "RESTful"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moongoose": "0.0.5"
+  },
+  "author": "Pisit Praiwattana",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
