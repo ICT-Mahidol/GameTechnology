@@ -1,7 +1,7 @@
 {
   "name": "gamemapapi",
-  "version": "1.0.0",
-  "description": "Get information from game environment map with this API",
+  "version": "1.0.1",
+  "description": "Get information from game environment map with this API, no Database used",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
